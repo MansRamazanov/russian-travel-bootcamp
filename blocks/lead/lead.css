@@ -1,0 +1,18 @@
+.lead {
+  margin: 0 auto;
+  margin-bottom: 62px;
+  max-width: 984px;
+}
+
+@media (min-width: 768px) {
+  .lead {
+    margin-bottom: 88px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .lead {
+    padding: 0 48px;
+    margin-bottom: 92px;
+  }
+}

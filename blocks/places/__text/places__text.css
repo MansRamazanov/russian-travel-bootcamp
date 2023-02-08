@@ -1,0 +1,52 @@
+.places__text {
+  margin: 0 16px;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 163%;
+}
+
+.places__text:not(:last-child) {
+  margin-bottom: 25px;
+}
+
+@media (min-width: 768px) {
+  .places__text {
+    margin: 0 0 0 28px;
+  }
+
+   #kolskiy_text_margin {
+    margin-bottom: 35px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .places__text {
+    margin: 0 0 0 32px;
+    font-size: 18px;
+  }
+
+  .places__text:not(:last-child) {
+    margin-bottom: 27px;
+  }
+
+  
+  #kolskiy_text_margin {
+    margin-bottom: 26px;
+  }
+}
+
+@media (min-width: 1280px) {
+  .places__text {
+    margin: 0 0 0 40px;
+  }
+
+  .places__text:not(:last-child) {
+    margin-bottom: 27px;
+  }
+}
+
+#kolskiy_text_margin {
+
+}
+

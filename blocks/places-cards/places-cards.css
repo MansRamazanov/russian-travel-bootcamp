@@ -1,0 +1,9 @@
+.places-cards {
+}
+
+@media (min-width: 1280px) {
+  .places-cards {
+    position: relative;
+    left: -27px;
+  }
+}
