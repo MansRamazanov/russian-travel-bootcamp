@@ -1,7 +1,0 @@
-.br__width-768plus {
-}
-@media (max-width: 767px) {
-  .br__width-768plus {
-    display: none;
-  }
-}

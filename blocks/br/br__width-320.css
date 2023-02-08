@@ -1,8 +1,0 @@
-.br__width-320 {
-}
-
-@media (min-width: 768px) {
-  .br__width-320 {
-    display: none;
-  }
-}
