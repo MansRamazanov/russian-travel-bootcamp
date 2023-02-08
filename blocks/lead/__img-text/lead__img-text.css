@@ -1,4 +1,4 @@
-.lead__img_text {
+.lead__img-text {
   margin: 0 auto;
   padding: 0 16px;
   font-style: normal;
@@ -10,13 +10,13 @@
 }
 
 @media (min-width: 768px) {
-  .lead__img_text {
+  .lead__img-text {
     padding: 0 24px;
   }
 }
 
 @media (min-width: 1024px) {
-  .lead__img_text {
+  .lead__img-text {
     padding: 0;
   }
 }

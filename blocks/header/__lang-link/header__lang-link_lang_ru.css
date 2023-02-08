@@ -1,9 +1,9 @@
-.header__lang-link_ru {
+.header__lang-link_lang_ru {
   color: #fff;
   padding-right: 14px;
 }
 
-.header__lang-link_ru:hover {
+.header__lang-link_lang_ru:hover {
   opacity: 0.8;
   transition: 0.5s;
 }
