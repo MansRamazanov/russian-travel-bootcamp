@@ -1,0 +1,14 @@
+.header__lang-change {
+  color: #fff;
+  text-decoration: none;
+  padding-right: 14px;
+}
+
+.header__lang-change:hover {
+  opacity: 0.8;
+  transition: 0.5s;
+}
+
+.header__lang-change:last-child {
+  padding-right: 0;
+}

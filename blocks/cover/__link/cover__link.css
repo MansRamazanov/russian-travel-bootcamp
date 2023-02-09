@@ -1,8 +1,8 @@
 .cover__link {
   background-image: url(../../../images/Sorting_station.png);
-  background-size: 100%;
+  background-size: cover;
   background-repeat: no-repeat;
-  height: calc(min(1184px,100vw)*(740/1184));
+  min-height: calc(min(1184px,100vw)*(740/1184));
   display: flex;
   flex-direction: column;
   justify-content: center;
