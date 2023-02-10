@@ -30,6 +30,7 @@
 @media (min-width: 1280px) {
   .photo {
     margin: 0 auto;
+    margin-bottom: 92px;
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     row-gap: 16px;
